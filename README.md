@@ -4,15 +4,15 @@
 <h1><a name="introduction">Introduction</a></h1>
 <p>This dashboard provides a comprehensive visual analysis of heart disease data. It aims to uncover key insights and trends related to various factors contributing to heart disease risk. The dashboard leverages interactive visualizations to explore the distribution of different characteristics within the population and their relationships with heart disease outcomes.</p>
 <h1><a name="projectobjectives">Project Objectives💡</a></h1>
-<p>The Amazon Sales  Dashboard Project is designed to help stakeholders navigate the intricacies of Amazon's sales data and uncover opportunities for improvement:</p>
+<p>The Heart Disease Diagnostic Analysis involves creating clear and informative visualizations to help understand the distribution of different factors and their relationships with heart disease outcomes.:</p>
 <ul>
-  <li>Sales Analysis by Date</li>
-  <li>Sales Analysis by Category</li>
-  <li>Sales Analysis by Sales Channel</li>
-  <li>Sales Analysis by Size and Category</li>
-  <li>Sales Analysis by Types</li>
-  <li>Sales Analysis by Top 5 country</li>
-  <li>Sales Analysis by Bottom 5 country</li>
+  <li>Compare heart disease risk factors between males and females.</li>
+  <li>Analyze the distribution of chest pain types across different sexes.</li>
+  <li>Investigate the relationship between sex and the slope of the peak exercise ST segment.</li>
+  <li>Identify the most common maximum heart rates achieved.</li>
+  <li>Compare the prevalence of high fasting blood sugar levels between males and females.</li>
+  <li>Visualize the relationship between exercise-induced angina and other risk factors.</li>
+  <li>Develop a user-friendly tool for exploring and understanding heart disease data.</li>
 </ul>
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used: Power Bi</li>
