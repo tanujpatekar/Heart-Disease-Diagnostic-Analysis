@@ -1,4 +1,4 @@
-# Heart-Disease-Diagnostic-Analysis
+# Heart-Disease-Diagnostic-Analysis 🫀
 <img width="1000" height="500" alt="Coding" src="https://github.com/tanujpatekar/Heart-Disease-Diagnostic-Analysis/blob/main/Dashboard_Image_Heart%20Disease%20Diagnostic%20Analysis.jpg">
 
 <h1><a name="introduction">Introduction</a></h1>
@@ -18,9 +18,9 @@
 <ul><li>Tool used: Power Bi</li>
 
         
-<p>The Amazon Sales Dashboard Project leverages a wide array of visualizations, including bar charts, line charts, pie charts, tables, and more. Each visualization is carefully chosen to convey data insights effectively and enhance decision-making.</p>
+<p>The  Heart Disease Diagnostic Analysis Project leverages a wide array of visualizations, including bar charts, line charts, pie charts, tables, and more. Each visualization is carefully chosen to convey data insights effectively and enhance decision-making.</p>
 <h1><a name="conclusion">Conclusion</a></h1>
-<p>In an era where data-driven decisions are paramount, the Amazon Sales Dashboard Project equips Amazon India with the tools to optimize product profitability, streamline operations, and enhance customer experiences. Whether it's analyzing sales trends, monitoring courier performance, or understanding regional variations, this project offers a holistic view of Amazon's sales operations in India. Welcome to the era of data-driven e-commerce excellence, powered by the Amazon Sales Power BI Dashboard.</p>
+<p>This analysis of heart disease data reveals key insights into risk factors and their distribution. Age and sex appear to influence the prevalence of different heart disease characteristics. The data suggests potential variations in chest pain types and the slope of the peak exercise ST segment between males and females. Further investigation is warranted to explore these findings and develop strategies for targeted prevention and management of heart disease.</p>
 
 <p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
   <a href="https://www.linkedin.com/in/tanuj-patekar/">
